@@ -216,11 +216,11 @@ Choose books that improve:
 
 1. The 5AM Club By Robin Sharma
 
-![Assignment 5 Sreenshot](screenshots/week-01-sreenshot-01.png )
+[![Assignment 5 Sreenshot](screenshots/week-01-sreenshot-01.png )]
 
 2. Atomic Habits  by James Clear
 
-![Assignment 5 Sreenshot](screenshots/week-01-sreenshot-02.png )
+[![Assignment 5 Sreenshot]](screenshots/week-01-sreenshot-02.png )
 
 3. The 7 Habits of Highly Effective People by Stephen R. Covey
 

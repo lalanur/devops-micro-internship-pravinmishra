@@ -14,7 +14,7 @@
 | | |
 |---|---|
 | **Name** | Zahra'u Nura |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/zahra-u-nura/) |
+| **LinkedIn** | [zahrau-u-nura](https://www.linkedin.com/in/zahra-u-nura/) |
 | **Location** | Abuja, Nigeria |
 | **Background** | Technical Support, Cloud infrastructure, Site Reliability Engineer |
 | **Goal** | Be a DevOps professionals |
