@@ -216,7 +216,7 @@ Choose books that improve:
 
 1. The 5AM Club By Robin Sharma
 
-![Assignment 5 Sreenshot](screenshots/week-01-sreenshot-01.png)
+![Assignment 5 Sreenshot](screenshots/week-01-sreenshot-01.PNG)
 
 2. Atomic Habits  by James Clear
 
