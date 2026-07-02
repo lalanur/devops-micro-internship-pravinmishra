@@ -216,43 +216,43 @@ Choose books that improve:
 
 1. The 5AM Club By Robin Sharma
 
-![Assignment 5 Sreenshot](screenshots/week-01-sreenshot-01.png )
+![Assignment 5 Sreenshot](screenshots/week-01-sreenshot-01.png)
 
 2. Atomic Habits  by James Clear
 
-![Assignment 5 Sreenshot](screenshots/week-01-sreenshot-02.png )
+![Assignment 5 Sreenshot](screenshots/week-01-sreenshot-02.png)
 
 3. The 7 Habits of Highly Effective People by Stephen R. Covey
 
-![Assignment 5 Sreenshot](screenshots/week-01-sreenshot-03.png )
+![Assignment 5 Sreenshot](screenshots/week-01-sreenshot-03.png)
 
 4. The Phoenix Project by Gene Kim, Kevin Behr & George Spafford
 
-![Assignment 5 Sreenshot](screenshots/week-01-sreenshot-04.png )
+![Assignment 5 Sreenshot](screenshots/week-01-sreenshot-04.png)
 
 5. Thinking, Fast and Slow by Daniel Kahneman
 
-![Assignment 5 Sreenshot](screenshots/week-01-sreenshot-05.png )
+![Assignment 5 Sreenshot](screenshots/week-01-sreenshot-05.png)
 
 6. The Power of Habit by Charles Duhigg
 
-![Assignment 5 Sreenshot](screenshots/week-01-sreenshot-06.png )
+![Assignment 5 Sreenshot](screenshots/week-01-sreenshot-06.png)
 
 7. Deep Work by Cal Newport
 
-![Assignment 5 Sreenshot](screenshots/week-01-sreenshot-07.png )
+![Assignment 5 Sreenshot](screenshots/week-01-sreenshot-07.png)
 
 8. The Psychology of Money by Morgan Housel
 
-![Assignment 5 Sreenshot](screenshots/week-01-sreenshot-08.png )
+![Assignment 5 Sreenshot](screenshots/week-01-sreenshot-08.png)
 
 9. Never Split the Difference by Chris Voss
 
-![Assignment 5 Sreenshot](screenshots/week-01-sreenshot-09.png )
+![Assignment 5 Sreenshot](screenshots/week-01-sreenshot-09.png)
 
 10. The Power of Writing It Down by Allison Fallon
 
-![Assignment 5 Sreenshot](screenshots/week-01-sreenshot-10.png )
+![Assignment 5 Sreenshot](screenshots/week-01-sreenshot-10.png)
 
 ---
 
