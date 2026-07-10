@@ -20,7 +20,7 @@ Create the `.claude` directory structure required for team-level Claude Code con
 
 #### Screenshot 1 — `.claude` folder structure visible in VS Code Explorer
 
-Add your screenshot here.
+![screenshot 1](screenshots/assignment6-screenshot-01.PNG)
 
 ---
 
@@ -34,7 +34,7 @@ Create a hook that checks user prompts before Claude processes them and blocks r
 
 #### Screenshot 2 — `user-prompt-guard.sh` open in VS Code showing the hook script
 
-Add your screenshot here.
+![screenshot 2](screenshots/assignment6-screenshot-02.PNG)
 
 ---
 
@@ -48,7 +48,7 @@ Create a hook that runs before Claude executes Bash commands and blocks dangerou
 
 #### Screenshot 3 — `pre-tool-guard.sh` open in VS Code showing the hook script
 
-Add your screenshot here.
+![screenshot 3](screenshots/assignment6-screenshot-03.PNG)
 
 ---
 
@@ -62,7 +62,7 @@ Create a hook that runs after Claude executes a Bash command and logs selected T
 
 #### Screenshot 4 — `post-tool-logger.sh` open in VS Code showing the hook script
 
-Add your screenshot here.
+![screenshot 4](screenshots/assignment6-screenshot-04.PNG)
 
 ---
 
@@ -76,7 +76,9 @@ Configure Claude Code permissions and connect the hook scripts created in the pr
 
 #### Screenshot 5 — `settings.json` open in VS Code showing permissions and hooks configuration
 
-Add your screenshot here.
+![screenshot 5](screenshots/assignment6-screenshot-05.PNG)
+
+![screenshot 5](screenshots/assignment6-screenshot-05ii.PNG)
 
 ---
 
@@ -90,6 +92,8 @@ Prove the prompt-level hook works by typing a destructive prompt and verifying i
 
 #### Screenshot 6 — UserPromptSubmit hook blocking the destructive prompt
 
+![screenshot 6](screenshots/assignment6-screenshot-06.PNG)
+
 ---
 
 # Task 7 — Test the PreToolUse Hook
@@ -101,6 +105,8 @@ Prove the tool-level hook works by asking Claude to execute a dangerous Bash com
 ### Evidence
 
 #### Screenshot 7 — PreToolUse hook blocking terraform destroy
+
+![screenshot 7](screenshots/assignment6-screenshot-07.PNG)
 
 ---
 
@@ -114,7 +120,11 @@ Prove the logging hook runs after a successful command execution and records Ter
 
 #### Screenshot 8 — Claude running terraform validate successfully
 
+![screenshot 8](screenshots/assignment6-screenshot-08.PNG)
+
 #### Screenshot 9 — `.claude/deploy.log` showing the logged command
+
+![screenshot 9](screenshots/assignment6-screenshot-09.PNG)
 
 ---
 

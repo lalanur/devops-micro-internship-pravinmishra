@@ -46,7 +46,7 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-Add your screenshot here.
+![screenshot 1](screenshots/assignment8-screenshot-01.PNG)
 
 ---
 
@@ -54,7 +54,7 @@ Add your screenshot here.
 
 Blog Link:
 
-`__________________________________________`
+`https://medium.com/@lalanura5/reflection-week-2-ac410a5bfc00`
 
 ---
 
@@ -92,7 +92,7 @@ P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by 
 
 #### Screenshot 2 — LinkedIn post published
 
-Add your screenshot here.
+![screenshot 2](screenshots/assignment8-screenshot-02.PNG)
 
 ---
 
@@ -101,14 +101,25 @@ Add your screenshot here.
 LinkedIn Post Content (copy-paste here):
 
 ```
-Paste your LinkedIn post content here
+Week 2 of AI in engineering.
+
+This week, I explored Claude Code, reusable skills, subagents, MCP, hooks, permissions, and memory. One of the biggest takeaways for me was realizing that Agentic AI isn't just about generating code—it's about following structured workflows, maintaining project context, and helping engineers automate repetitive tasks while staying in control.
+As someone with experience in Terraform and DevOps, I especially enjoyed seeing how much time AI can save by handling repetitive setup work, allowing me to focus more on architecture, validation, and deployment decisions.
+Every challenge, even troubleshooting hooks and configuration issues, became an opportunity to improve my debugging process and reinforce the importance of reading error messages carefully.
+
+Looking forward to building on these skills in the coming weeks! 
+A big thank you to the mentor and co-mentors for leading this internship Pravin Mishra, Anjana Muthunayake, Faith Samson, Joy Ukpabi, Rukevwe ubioworo.
+
+P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by Pravin Mishra. You can start your DevOps journey by joining this Discord community ( https://lnkd.in/eQpt2SfH ).
+
+#DMIByPravinMishra #AgenticAI #ClaudeCode #DevOps #LearningInPublic
 ```
 
 ---
 
 ### LinkedIn Post Link:
 
-`__________________________________________`
+`https://www.linkedin.com/posts/zahra-u-nura_dmibypravinmishra-agenticai-claudecode-share-7481301041385410560-0Hp9/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U`
 
 ---
 
