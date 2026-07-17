@@ -76,8 +76,8 @@ Week 01 → Success Mindset
 Week 02 → Agentic AI with Claude Code
 [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/)
 
-<!-- Week 03 → Linux & Bash for DevOps -->
-<!-- [![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/) -->
+Week 03 → Linux & Bash for DevOps
+[![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/)
 
 <!-- Week 04 → Git & GitHub -->
 <!-- [![Week 04 – Git](./badges/week-04.svg)](./week-04-github/) -->
@@ -130,10 +130,10 @@ Week 02 → Agentic AI with Claude Code
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ⬜ Not Started | ⏳ Pending | — | — |
-| 01 | Success Mindset | ⬜ Not Started | ⏳ Pending | — | — |
-| 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
-| 03 | Linux for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Completed | — | — |
+| 01 | Success Mindset | ✅ Completed | ✅ Completed | https://www.linkedin.com/posts/zahra-u-nura_join-the-dmi-devops-micro-internship-share-7478432800833183744-XmTa/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U | https://medium.com/@lalanura5/zahrau-nura-2-0-45449b1592ab |
+| 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Completed | https://www.linkedin.com/posts/zahra-u-nura_dmibypravinmishra-agenticai-claudecode-share-7481301041385410560-0Hp9/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U; https://www.linkedin.com/posts/zahra-u-nura_dmibypravinmishra-agenticai-claudecode-ugcPost-7481289195924226048-phoV/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U; https://www.linkedin.com/posts/zahra-u-nura_dmibypravinmishra-agenticai-claudecode-share-7480940741616242688-o-GT/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U | https://medium.com/@lalanura5/reflection-week-2-ac410a5bfc00 |
+| 03 | Linux for DevOps | ✅ Completed | ✅ Completed | https://lnkd.in/p/eJYR7wbB; https://www.linkedin.com/posts/zahra-u-nura_dmi-cohort-4-live-micro-internship-waiting-share-7483184985923989504-7EB-/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U; https://lnkd.in/p/eFsWPFpE; https://www.linkedin.com/posts/zahra-u-nura_devops-sitereliabilityengineering-linux-share-7483672980397518848-lEDs/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U | — |
 | 04 | Bash Scripting | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |

@@ -383,13 +383,13 @@ Stopping or terminating unused resources helps reduce cloud costs, prevents unne
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/zahra-u-nura_dmi-cohort-4-live-micro-internship-waiting-share-7483184985923989504-7EB-/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U`
 
 ---
 
 #### Screenshot — Published LinkedIn post
 
-Add your screenshot here.
+![screenshot 23](screenshots/assignment3-screenshot-23.PNG)
 
 ---
 
