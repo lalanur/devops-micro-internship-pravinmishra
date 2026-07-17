@@ -20,7 +20,7 @@ Discover exactly where Claude Code stores memory for this project.
 
 #### Screenshot 1 — Memory file path shown by Claude
 
-![screenshot 1](screenshots/assignment7-screenshot-01.PNG)
+Add your screenshot here.
 
 ---
 
@@ -34,15 +34,13 @@ Teach Claude three specific facts about the project and instruct it to save them
 
 #### Screenshot 2 — Claude confirming the memory was saved
 
-![screenshot 2](screenshots/assignment7-screenshot-02.PNG)
+Add your screenshot here.
 
 ---
 
 #### Screenshot 3 — The `MEMORY.md` file open in VS Code showing the saved content
 
-![screenshot 3](screenshots/assignment7-screenshot-03.PNG)
-
-![screenshot 3](screenshots/assignment7-screenshot-03ii.PNG)
+Add your screenshot here.
 
 ---
 
@@ -56,7 +54,7 @@ Terminate the current Claude Code session and restart it to ensure memory is the
 
 #### Screenshot 4 — VS Code reopened with a fresh Claude Code session showing no previous conversation
 
-![screenshot 4](screenshots/assignment7-screenshot-04.PNG)
+Add your screenshot here.
 
 ---
 
@@ -70,15 +68,13 @@ Run three tests that prove Claude remembers what you told it — without you say
 
 #### Screenshot 5 — Claude recalling hero section colors
 
-![screenshot 5](screenshots/assignment7-screenshot-05.PNG)
-
-![screenshot 5](screenshots/assignment7-screenshot-05ii.PNG)
+Add your screenshot here.
 
 ---
 
 #### Screenshot 6 — Claude refusing JavaScript request based on memory rule
 
-![screenshot 6](screenshots/assignment7-screenshot-06.PNG)
+Add your screenshot here.
 
 ---
 
@@ -95,7 +91,7 @@ Run three tests that prove Claude remembers what you told it — without you say
 
 Paste your Linkedin post link here:
 
-`https://www.linkedin.com/posts/zahra-u-nura_dmibypravinmishra-agenticai-claudecode-ugcPost-7481289195924226048-phoV/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U`
+`Add your URL here`
 
 ---
 
@@ -103,7 +99,7 @@ Paste your Linkedin post link here:
 
 Paste your forked repository URL here:
 
-`https://github.com/lalanur/Ultimate-Agentic-DevOps-with-Claude-Code.git`
+`Add your URL here`
 
 ---
 

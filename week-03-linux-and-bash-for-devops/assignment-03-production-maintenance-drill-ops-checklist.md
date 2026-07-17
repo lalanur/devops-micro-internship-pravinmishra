@@ -383,13 +383,13 @@ Stopping or terminating unused resources helps reduce cloud costs, prevents unne
 
 Paste your LinkedIn post URL here:
 
-`https://lnkd.in/p/ecH-X8Cn`
+`Add your URL here`
 
 ---
 
 #### Screenshot — Published LinkedIn post
 
-![screenshot 23](screenshots/assignment3-screenshot-23.PNG)
+Add your screenshot here.
 
 ---
 

@@ -418,7 +418,7 @@ The script uses variables to store user and file information, an array to hold t
 
 Paste your LinkedIn post URL here:
 
-`https://lnkd.in/p/eFsWPFpE`
+`Add your URL here`
 
 ---
 
