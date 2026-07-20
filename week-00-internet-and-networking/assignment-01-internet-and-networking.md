@@ -34,7 +34,7 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+I used was ChatGPT as a learning assistant, which broke down complex networking and system design concepts into simple, real-world explanations.
 
 ---
 
@@ -59,7 +59,7 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+When someone visits EpicReads from anywhere in the world, their device sends a request over the internet using TCP/IP, the core communication protocol. The request is broken into small pieces through packet switching, allowing data to travel efficiently across different routes. Each packet carries the IP address of the user’s device and the IP address of your server in Finland, ensuring it reaches the correct destination. Once the packets arrive, they are reassembled into the original request. The website is then delivered back to the user using HTTP or the more secure HTTPS, which encrypts the data for safe transmission. This entire process happens within seconds, allowing users globally to access EpicReads seamlessly and securely.
 
 ---
 
@@ -102,18 +102,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* React/Next.js.
+* Vue.js/Angular.
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Node.js/Express.
+* Django/FastAPI.
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* PostgreSQL/MySQL.
+* MongoDB.
 
 ---
 
@@ -142,7 +142,10 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+1.      What is DNS?
+DNS (Domain Name System) is the Internet's phone book. When you type a website name like `epicreads.com` into your browser, your computer doesn't actually understand names; it only understands IP addresses (like “52.172.142.222”). DNS translates the human-friendly domain name into the numeric IP address so your browser knows exactly which server to connect to. Without DNS, everyone would have to memorize IP addresses to visit websites, so DNS makes it easier for use to visit websites.
+2.      Which DNS record type to use?
+You should use an A Record (Address Record): An A record directly maps a domain name to an IPv4 address. So, you'd create an A record pointing `epicreads.com` → `52.172.142.222`. This tells DNS servers worldwide: "whenever someone requests epicreads.com, send them to that IP." Since the IP given (“52.172.142.222”) is a standard IPv4 address, the A record is the correct and most straightforward choice, as opposed to a CNAME (which maps a domain to a domain, not to an IP) or an AAAA record (which is for IPv6 addresses).
 
 ---
 
@@ -218,7 +221,7 @@ Add the following credit note at the end of your post:
 Paste your LinkedIn post URL here:
 
 ```text
-Add your URL here...
+https://www.linkedin.com/posts/zahra-u-nura_dmi-share-7455333545524277248-Q2c8/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U
 ```
 
 ---
@@ -227,7 +230,29 @@ Add your URL here...
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+🚀 Here is My DevOps Learning Journey – and I'm already connecting dots:
+Here's a summary of what I explored this week through an introductory DevOps Micro-Internship. One of the most impactful tools I used was ChatGPT as a learning assistant, which broke down complex networking and system design concepts into simple, real-world explanations.
+
+🌐 Internet & Networking
+Had to revisit the fundamentals of networking and how users access a global website using TCP/IP, packet switching, and IP addresses, with HTTP/HTTPS enabling secure communication between clients and servers.
+
+🏗️ Application Architecture
+I explore application architecture as it is built using multiple layers, each with a clear responsibility:
+I also created simple diagrams (draw.io) to visualize the layers:
+Frontend: React, HTML, CSS
+Backend: Node.js, Python (Flask/Django), .NET
+Database: PostgreSQL, MySQL, MongoDB
+This helped me clearly understand how responsibilities are separated and why three-tier architectures are more scalable and secure.
+
+🌍 DNS
+I worked on mapping a domain to a live server by configuring an A record, reinforcing how DNS translates human-readable names to IP addresses.
+
+🛠️ VS Code Setup
+Set up a development environment with Python extensions, debugging tools, and terminal access to run and test scripts efficiently.
+
+This journey reinforced the power of continuous learning and how AI can accelerate understanding in tech.
+
+P.S. This post is part of the FREE DevOps Micro Internship Cohort run by Pravin Mishra. You can start your DevOps journey for free from his YouTube Playlist DevOps Micro Internship (#DMI) By Pravin Mishra (Cohort 1) - YouTube.
 
 ---
 
