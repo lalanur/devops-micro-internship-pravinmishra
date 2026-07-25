@@ -396,7 +396,7 @@ Paste your LinkedIn post URL here:
 # Submission Instructions
 
 - Add all required screenshots in your submission
-- Full name must be visible in required screenshots
+- Full name must be visible in https://www.linkedin.com/posts/zahra-u-nura_dmibypravinmishra-agenticai-claudecode-share-7481301041385410560-0Hp9/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U; https://www.linkedin.com/posts/zahra-u-nura_dmibypravinmishra-agenticai-claudecode-ugcPost-7481289195924226048-phoV/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U; https://www.linkedin.com/posts/zahra-u-nura_dmibypravinmishra-agenticai-claudecode-share-7480940741616242688-o-GT/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U | https://medium.com/@lalanura5/reflection-week-2-ac410a5bfc00required screenshots
 - Do not expose sensitive information (keys, passwords, account IDs)
 
 ---
