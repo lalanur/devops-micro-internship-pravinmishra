@@ -260,19 +260,19 @@ P.S. This post is part of the FREE DevOps Micro Internship Cohort run by Pravin 
 
 ### What did you find easy?
 
-Add your answer here...
+I found it easy to understand the basic networking concepts after breaking them down into smaller topics. Using ChatGPT as a learning assistant helped simplify technical terms like TCP/IP, packet switching, and DNS with real-world examples. I also enjoyed creating the application architecture diagrams because they helped me visualize how different application layers work together.
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+The most challenging part was connecting all the networking concepts into one complete picture, especially understanding how packets travel across the internet and how DNS, IP addresses, and HTTP/HTTPS interact during a user's request. It took some additional reading and practice before the entire process became clear.
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+I want to spend more time practicing hands-on activities alongside the theory. I plan to improve my understanding of Linux commands, networking fundamentals, and system architecture while documenting my learning more effectively. I also want to become more comfortable explaining technical concepts in simple terms, as this is an important skill for DevOps engineers.
 
 ---
 

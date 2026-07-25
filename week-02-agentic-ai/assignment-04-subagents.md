@@ -34,13 +34,9 @@ Analyze the configuration differences between the three agents and demonstrate u
 
 #### 1. Why does the cost optimizer use Haiku instead of Sonnet?
 
-Add your answer here...
-
 The cost optimizer carries out focused analysis rather than complex coding reasoning, so Haiku is a good fit because it's faster, cleaner, cost-effective and more direct output. The end result helps reduce AI costs while still delivering accurate optimization suggestions.
 
 #### 2. Why does the security auditor NOT have Write in its tools list?
-
-Add your answer here...
 
 After reviewing the security auditor, it is meant to ensure compliance, inspect and report potential issues, and not make changes. Restricting it to read, Grep, and Glob tools follows the principle of least privilege and prevents accidental or unauthorized modifications.
 

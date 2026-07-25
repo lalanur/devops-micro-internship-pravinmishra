@@ -396,7 +396,6 @@ From Monday to Thursday, I will dedicate a cumulative 5–8 hours each week to d
 Paste your LinkedIn post link here:
 
 `https://www.linkedin.com/posts/zahra-u-nura_join-the-dmi-devops-micro-internship-share-7478432800833183744-XmTa/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U`
-`Add your URL here`
 
 ---
 
