@@ -122,7 +122,7 @@ Verify the deployed website and Nginx service are healthy.
 
 Paste your LinkedIn post URL here:
 
-`https://lnkd.in/p/eFsWPFpE`
+`https://www.linkedin.com/posts/zahra-u-nura_devops-linux-ubuntu-share-7483188331732897793-Weln/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U`
 
 ---
 

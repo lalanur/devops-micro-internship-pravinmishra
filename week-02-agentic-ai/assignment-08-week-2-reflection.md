@@ -54,7 +54,7 @@ You can publish your blog on:
 
 Blog Link:
 
-`https://medium.com/@lalanura5/reflection-week-2-ac410a5bfc00`
+`https://medium.com/@lalanura5/reflection-week-2-ac410a5bfc00?sharedUserId=lalanura5`
 
 ---
 
