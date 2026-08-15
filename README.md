@@ -28,8 +28,8 @@
 
 This is not a course. It is an internship-style program — real deployments, real pipelines, real evidence reviewed by mentors every week.
 
-- 🌐 Program Website: https://dmi.pravinmishra.com
-- 💬 Discord Community: https://discord.pravinmishra.com
+- 🌐 Program Website: https://dmi.pravinmishra.com?utm_source=github&utm_medium=readme
+- 💬 Discord Community: https://discord.pravinmishra.com?utm_source=github&utm_medium=readme
 - 📺 YouTube: [Pravin Mishra](https://www.youtube.com/@awswithpravinmishra)
 - 🔗 Instructor: [LinkedIn](https://www.linkedin.com/in/pravin-mishra-aws-trainer/)
 
@@ -61,7 +61,7 @@ This is not a course. It is an internship-style program — real deployments, re
 
 **Preview — what your full stack looks like:**
 
-[![Week 00](./badges/week-00.svg)](./week-00-internet-and-networking/)[![Week 01](./badges/week-01.svg)](./week-01-success-mindset/)[![Week 02](./badges/week-02.svg)](./week-02-agentic-ai/)[![Week 03](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/)[![Week 04](./badges/week-04.svg)](./week-04-github/)[![Week 05](./badges/week-05.svg)](./week-05-devops-lifecycle/)[![Week 06](./badges/week-06.svg)](./week-06-aws-cloud/)[![Week 07](./badges/week-07.svg)](./week-07-azure-cloud/)[![Week 08](./badges/week-08.svg)](./week-08-terraform/)[![Week 09](./badges/week-09.svg)](./week-09-ansible/)[![Week 10](./badges/week-10.svg)](./week-10-azure-devops/)[![Week 11](./badges/week-11.svg)](./week-11-docker/)[![Week 12](./badges/week-12.svg)](./week-12-kubernetes/)[![Week 13](./badges/week-13.svg)](./week-13-final-project/)
+[![Week 00](./badges/week-00.svg)](./week-00-internet-and-networking/)[![Week 01](./badges/week-01.svg)](./week-01-success-mindset/)[![Week 02](./badges/week-02.svg)](./week-02-agentic-ai/)[![Week 03](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/)[![Week 04](./badges/week-04.svg)](./week-04-git-and-github/)[![Week 05](./badges/week-05.svg)](./week-05-devops-lifecycle/)[![Week 06](./badges/week-06.svg)](./week-06-aws-cloud/)[![Week 07](./badges/week-07.svg)](./week-07-azure-cloud/)[![Week 08](./badges/week-08.svg)](./week-08-terraform/)[![Week 09](./badges/week-09.svg)](./week-09-ansible/)[![Week 10](./badges/week-10.svg)](./week-10-azure-devops/)[![Week 11](./badges/week-11.svg)](./week-11-docker/)[![Week 12](./badges/week-12.svg)](./week-12-kubernetes/)[![Week 13](./badges/week-13.svg)](./week-13-final-project/)
 
 ---
 
@@ -80,7 +80,7 @@ Week 03 → Linux & Bash for DevOps
 [![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/)
 
 Week 04 → Git & GitHub
-[![Week 04 – Git](./badges/week-04.svg)](./week-04-github/)
+[![Week 04 – Git](./badges/week-04.svg)](./week-04-git-and-github/)
 
 <!-- Week 05 → DevOps Lifecycle & Agile -->
 <!-- [![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/) -->
@@ -133,9 +133,9 @@ Week 04 → Git & GitHub
 | 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/zahra-u-nura_dmi-share-7455333545524277248-Q2c8/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U | — |
 | 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/zahra-u-nura_join-the-dmi-devops-micro-internship-share-7478432800833183744-XmTa/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U | https://medium.com/@lalanura5/zahrau-nura-2-0-45449b1592ab |
 | 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/zahra-u-nura_dmibypravinmishra-agenticai-claudecode-share-7481301041385410560-0Hp9/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U; https://www.linkedin.com/posts/zahra-u-nura_dmibypravinmishra-agenticai-claudecode-ugcPost-7481289195924226048-phoV/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U; https://www.linkedin.com/posts/zahra-u-nura_dmibypravinmishra-agenticai-claudecode-share-7480940741616242688-o-GT/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U | https://medium.com/@lalanura5/reflection-week-2-ac410a5bfc00?sharedUserId=lalanura5 |
-| 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/zahra-u-nura_successfully-deployed-a-react-app-on-an-share-7482585038350397440-w50d/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U; https://www.linkedin.com/posts/zahra-u-nura_dmi-cohort-4-live-micro-internship-waiting-share-7483184985923989504-7EB-/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U; https://www.linkedin.com/posts/zahra-u-nura_devops-linux-ubuntu-share-7483188331732897793-Weln/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U; https://www.linkedin.com/posts/zahra-u-nura_devops-sitereliabilityengineering-linux-share-7483672980397518848-lEDs/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U | — |
-| 04 | Git & GitHub | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/zahra-u-nura_devops-aws-ec2-share-7486018254155616256-wyKr/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U; https://www.linkedin.com/posts/zahra-u-nura_dmi-cohort-4-live-micro-internship-waiting-share-7486022660578082819-uitx/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U; https://www.linkedin.com/posts/zahra-u-nura_dmi-cohort-4-live-micro-internship-waiting-share-7486027154967904256-ar02/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U | — |
-| 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
+| 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/zahra-u-nura_successfully-deployed-a-react-app-on-an-share-7482585038350397440-w50d/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U; https://www.linkedin.com/posts/zahra-u-nura_dmi-cohort-4-live-micro-internship-waiting-share-7483184985923989504-7EB-/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U; https://www.linkedin.com/posts/zahra-u-nura_devops-linux-ubuntu-share-7483188331732897793-Weln/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U; https://www.linkedin.com/posts/zahra-u-nura_devops-sitereliabilityengineering-linux-share-7483672980397518848-lEDs/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U | https://medium.com/@lalanura5/reflection-week-2-02827dc1a3b4?sharedUserId=lalanura5 |
+| 04 | Git & GitHub | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/zahra-u-nura_devops-aws-ec2-share-7486018254155616256-wyKr/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U; https://www.linkedin.com/posts/zahra-u-nura_dmi-cohort-4-live-micro-internship-waiting-share-7486022660578082819-uitx/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U; https://www.linkedin.com/posts/zahra-u-nura_dmi-cohort-4-live-micro-internship-waiting-share-7486027154967904256-ar02/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U | https://medium.com/@lalanura5/open-source-collaboration-fork-clone-sync-pull-request-ebbb94d4715e |
+| 05 | DevOps Lifecycle & Agile | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/zahra-u-nura_devops-agile-scrum-activity-7494360136136716288-P5J9?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U; https://www.linkedin.com/posts/zahra-u-nura_devops-scrum-jira-activity-7494365647242715136-Svp9?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U | https://medium.com/@lalanura5/from-backlog-to-production-what-a-five-day-jira-sprint-taught-me-about-delivering-software-153e3c38fb66 |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
@@ -164,5 +164,5 @@ If you found this repo useful or want to follow my DevOps journey:
 
 - ⭐ Star this repo
 - 🔗 Connect with me on [LinkedIn](#)
-- 🌐 Learn more about the program: https://dmi.pravinmishra.com
-- 💬 Join the community: https://discord.pravinmishra.com
+- 🌐 Learn more about the program: https://dmi.pravinmishra.com?utm_source=github&utm_medium=readme
+- 💬 Join the community: https://discord.pravinmishra.com?utm_source=github&utm_medium=readme
