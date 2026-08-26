@@ -20,7 +20,7 @@ Create an architecture diagram showing the custom VPC (10.0.0.0/16), the six sub
 
 #### Diagram image or link
 
-Add your diagram image or link here.
+![screenshot 01](screenshots/task6-screenshot-01.PNG)
 
 ---
 
@@ -34,13 +34,13 @@ Record the AWS Region used and list every AWS service used across networking, co
 
 **Region:**
 
-Write your answer here.
+Europe (Frankfurt): eu-central-1.
 
 ---
 
 **Services:**
 
-Write your answer here.
+Amazon VPC (Virtual Private Cloud), Subnets, Internet Gateway (IGW), NAT Gateways, Route Tables, Amazon EC2 (Elastic Compute Cloud), AWS Auto Scaling Groups, Application Load Balancer (Public / Internet-Facing ALB), Application Load Balancer (Internal ALB), Amazon RDS (Relational Database Service), Amazon RDS Read Replica, Security Groups, AWS IAM (Identity and Access Management).
 
 ---
 
@@ -56,7 +56,7 @@ Confirm the Book Review App loads through the public ALB DNS name.
 
 Paste your public ALB DNS name here:
 
-`Add your URL here`
+`Book-Review-Web-ALB-1390436974.eu-central-1.elb.amazonaws.com`
 
 ---
 
@@ -70,37 +70,37 @@ Capture visual proof of every tier and load balancer.
 
 #### Web EC2
 
-Add your screenshot here.
+![screenshot 02](screenshots/task6-screenshot-02.PNG)
 
 ---
 
 #### App EC2
 
-Add your screenshot here.
+![screenshot 03](screenshots/task6-screenshot-03.PNG)
 
 ---
 
 #### Public ALB
 
-Add your screenshot here.
+![screenshot 04](screenshots/task6-screenshot-04.PNG)
 
 ---
 
 #### Internal ALB
 
-Add your screenshot here.
+![screenshot 05](screenshots/task6-screenshot-05.PNG)
 
 ---
 
 #### RDS + Replica
 
-Add your screenshot here.
+![screenshot 06](screenshots/task6-screenshot-06.PNG)
 
 ---
 
 #### App UI proof
 
-Add your screenshot here.
+![screenshot 07](screenshots/task6-screenshot-07.PNG)
 
 ---
 
@@ -114,19 +114,26 @@ Summarize what worked in the final deployment, the issues encountered and how ea
 
 **What worked:**
 
-Write your answer here.
+The full HA architecture deployed successfully — VPC with public/app/private subnets across two AZs, NAT Gateway, IGW, three-tier security group chain, RDS MySQL with Multi-AZ, an Internet-facing ALB in front of the Web tier, an Internal ALB in front of the App tier, Nginx as a reverse proxy on the Web EC2, and the backend/frontend both running persistently under PM2. End-to-end request flow (Public ALB → Web EC2/Nginx → Internal ALB → App EC2 → RDS) was verified working via curl at each layer and confirmed in the browser.
 
 ---
 
 **Issues + fixes:**
 
-Write your answer here.
+DB connection failed after WordPress-style setup → RDS security group source was misconfigured; corrected to allow MySQL/3306 only from the App tier's security group, not the Web tier's.
+Couldn't SSH from Web EC2 to App EC2 (hung, no response) → App tier security group's SSH rule was sourced from "My IP" instead of the Web tier's security group; fixed to trust the bastion (Web-SG) as the source.
+mysql login worked but Unknown database error → the application database was never created; fixed by manually running CREATE DATABASE.
+WordPress login lost/forgotten → reset directly via SQL (UPDATE wp_users SET user_pass = MD5(...)) since no SMTP was configured for password-reset emails.
+Target group showing Unhealthy (HTTP 302) → WordPress hadn't completed its install wizard yet, so / redirected instead of returning 200; fixed by completing the install once through a temporarily-opened direct instance IP.
+PM2 backend stuck in "errored" crash-loop → a manually-started node process was still holding port 3001 (EADDRINUSE); killed the stray process and let PM2 own the port.
+/api/api/books double-path bug → frontend code re-appended /api on top of an already-prefixed NEXT_PUBLIC_API_URL; fixed by removing the duplicate /api in the fetch call and rebuilding.
+Persistent 504 Gateway Timeout on /api/books → traced through target-group health, security groups, and PM2 status (all healthy) down to Nginx's proxy_pass pointing at the wrong hostname — the Internal ALB had mistakenly been created with an Internet-facing scheme instead of Internal, so it never got AWS's internal- DNS prefix. Fixed by deleting and recreating the ALB with the correct Internal scheme in the private app subnets, then updating Nginx's proxy_pass to the new DNS name.
 
 ---
 
 **Tools/sources used:**
 
-Write your answer here.
+AWS Management Console (EC2, VPC, RDS, target groups, load balancers), SSH/bastion access, curl, mysql CLI, pm2 (status/logs), Nginx config testing (nginx -t), browser DevTools (Network/Console tabs) for isolating the frontend fetch and CORS/path issues, and AWS CLI (describe-load-balancers) to confirm ALB scheme independent of a cropped console screenshot.
 
 ---
 
@@ -142,13 +149,13 @@ Publish a LinkedIn post sharing the capstone deployment, including the public AL
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/zahra-u-nura_aws-devops-cloudengineering-activity-7498490230392475650-S30F?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U`
 
 ---
 
 #### Screenshot of LinkedIn post
 
-Add your screenshot here.
+![screenshot 08](screenshots/task6-screenshot-08.PNG)
 
 ---
 

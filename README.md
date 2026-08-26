@@ -82,8 +82,8 @@ Week 03 → Linux & Bash for DevOps
 Week 04 → Git & GitHub
 [![Week 04 – Git](./badges/week-04.svg)](./week-04-git-and-github/)
 
-<!-- Week 05 → DevOps Lifecycle & Agile -->
-<!-- [![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/) -->
+Week 05 → DevOps Lifecycle & Agile
+[![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/)
 
 <!-- Week 06 → AWS Cloud -->
 <!-- [![Week 06 – AWS](./badges/week-06.svg)](./week-06-aws-cloud/) -->
@@ -136,7 +136,7 @@ Week 04 → Git & GitHub
 | 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/zahra-u-nura_successfully-deployed-a-react-app-on-an-share-7482585038350397440-w50d/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U; https://www.linkedin.com/posts/zahra-u-nura_dmi-cohort-4-live-micro-internship-waiting-share-7483184985923989504-7EB-/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U; https://www.linkedin.com/posts/zahra-u-nura_devops-linux-ubuntu-share-7483188331732897793-Weln/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U; https://www.linkedin.com/posts/zahra-u-nura_devops-sitereliabilityengineering-linux-share-7483672980397518848-lEDs/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U | https://medium.com/@lalanura5/reflection-week-2-02827dc1a3b4?sharedUserId=lalanura5 |
 | 04 | Git & GitHub | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/zahra-u-nura_devops-aws-ec2-share-7486018254155616256-wyKr/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U; https://www.linkedin.com/posts/zahra-u-nura_dmi-cohort-4-live-micro-internship-waiting-share-7486022660578082819-uitx/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U; https://www.linkedin.com/posts/zahra-u-nura_dmi-cohort-4-live-micro-internship-waiting-share-7486027154967904256-ar02/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U | https://medium.com/@lalanura5/open-source-collaboration-fork-clone-sync-pull-request-ebbb94d4715e |
 | 05 | DevOps Lifecycle & Agile | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/zahra-u-nura_devops-agile-scrum-activity-7494360136136716288-P5J9?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U; https://www.linkedin.com/posts/zahra-u-nura_devops-scrum-jira-activity-7494365647242715136-Svp9?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U | https://medium.com/@lalanura5/from-backlog-to-production-what-a-five-day-jira-sprint-taught-me-about-delivering-software-153e3c38fb66 |
-| 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
+| 06 | AWS Cloud | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/zahra-u-nura_aws-cloudengineering-devops-activity-7498488762260373504-5yZ9?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U; https://www.linkedin.com/posts/zahra-u-nura_aws-devops-cloudengineering-activity-7498490230392475650-S30F?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U; https://www.linkedin.com/posts/zahra-u-nura_dmibypravinmishra-aws-agenticai-activity-7498491876195336192-uzrL?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U | https://medium.com/@lalanura5/when-the-pieces-finally-connected-my-aws-three-tier-capstone-430593056bed |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
 | 09 | Ansible | ⬜ Not Started | ⏳ Pending | — | — |
