@@ -20,13 +20,13 @@ Create an architecture diagram and implementation plan identifying the presentat
 
 #### Screenshot 1 — Architecture diagram showing the public entry point, three tiers, network boundaries, and traffic flow
 
-Add your screenshot here.
+![screenshot 01](screenshots/task6-screenshot-01.PNG)
 
 ---
 
 #### Screenshot 2 — Written architecture assumptions and selected Azure services
 
-Add your screenshot here.
+![screenshot 02](screenshots/task6-screenshot-02.PNG)
 
 ---
 
@@ -40,19 +40,19 @@ Create a dedicated Resource Group and VNet with separate subnets for the web, ap
 
 #### Screenshot 3 — Resource Group overview showing the assignment resources
 
-Add your screenshot here.
+![screenshot 03](screenshots/task6-screenshot-03.PNG)
 
 ---
 
 #### Screenshot 4 — VNet overview showing the address space and all required subnets
 
-Add your screenshot here.
+![screenshot 04](screenshots/task6-screenshot-04.PNG)
 
 ---
 
 #### Screenshot 5 — Route-table or Private DNS evidence where applicable
 
-Add your screenshot here.
+![screenshot 05](screenshots/task6-screenshot-05.PNG)
 
 ---
 
@@ -66,13 +66,15 @@ Apply least-privilege NSG rules so traffic flows Internet → public entry point
 
 #### Screenshot 6 — NSG rules proving least-privilege access between the tiers
 
-Add your screenshot here.
+![screenshot 06](screenshots/task6-screenshot-06.PNG)
+
+![screenshot 06](screenshots/task6-screenshot-06ii.PNG)
 
 ---
 
 #### Screenshot 7 — Key Vault or approved secret-management configuration (without displaying secret values)
 
-Add your screenshot here.
+![screenshot 07](screenshots/task6-screenshot-07.PNG)
 
 ---
 
@@ -86,13 +88,13 @@ Deploy the Book Review App presentation layer on the approved web-tier compute s
 
 #### Screenshot 8 — Web-tier compute overview showing subnet and availability configuration
 
-Add your screenshot here.
+![screenshot 08](screenshots/task6-screenshot-08.PNG)
 
 ---
 
 #### Screenshot 9 — Terminal or service output proving the presentation layer is running
 
-Add your screenshot here.
+![screenshot 09](screenshots/task6-screenshot-09.PNG)
 
 ---
 
@@ -106,19 +108,19 @@ Deploy the Book Review App backend privately in the application subnet, configur
 
 #### Screenshot 10 — Application-tier compute overview showing private subnet placement
 
-Add your screenshot here.
+![screenshot 10](screenshots/task6-screenshot-10.PNG)
 
 ---
 
 #### Screenshot 11 — Backend process, service, or listening-port evidence
 
-Add your screenshot here.
+![screenshot 11](screenshots/task6-screenshot-11.PNG)
 
 ---
 
 #### Screenshot 12 — Internal health-check or API response (without exposing secrets)
 
-Add your screenshot here.
+![screenshot 12](screenshots/task6-screenshot-12.PNG)
 
 ---
 
@@ -132,19 +134,19 @@ Create a private Azure managed database (public access disabled), with availabil
 
 #### Screenshot 13 — Database overview showing private connectivity and public access disabled
 
-Add your screenshot here.
+![screenshot 13](screenshots/task6-screenshot-13.PNG)
 
 ---
 
 #### Screenshot 14 — Availability, backup, and retention configuration
 
-Add your screenshot here.
+![screenshot 14](screenshots/task6-screenshot-14.PNG)
 
 ---
 
 #### Screenshot 15 — Successful schema or connectivity verification (without exposing credentials)
 
-Add your screenshot here.
+![screenshot 15](screenshots/task6-screenshot-15.PNG)
 
 ---
 
@@ -158,19 +160,19 @@ Configure the approved public entry service with health probes and backend pools
 
 #### Screenshot 16 — Public entry service showing listener, frontend endpoint, and healthy web targets
 
-Add your screenshot here.
+![screenshot 16](screenshots/task6-screenshot-16.PNG)
 
 ---
 
 #### Screenshot 17 — Internal application-tier load-balancing or routing configuration where applicable
 
-Add your screenshot here.
+![screenshot 17](screenshots/task6-screenshot-17.PNG)
 
 ---
 
 #### Screenshot 18 — Azure Monitor, diagnostic settings, logs, metrics, or alert evidence
 
-Add your screenshot here.
+![screenshot 18](screenshots/task6-screenshot-18.PNG)
 
 ---
 
@@ -184,25 +186,25 @@ Confirm the Book Review App works end to end through the public endpoint, with a
 
 #### Screenshot 19 — Browser showing the Book Review App through the public endpoint
 
-Add your screenshot here.
+![screenshot 19](screenshots/task6-screenshot-19.PNG)
 
 ---
 
 #### Screenshot 20 — Proof of successful database-backed read and write operations
 
-Add your screenshot here.
+![screenshot 20](screenshots/task6-screenshot-20.PNG)
 
 ---
 
 #### Screenshot 21 — Evidence that private tiers are not publicly accessible
 
-Add your screenshot here.
+![screenshot 21](screenshots/task6-screenshot-21.PNG)
 
 ---
 
 #### Screenshot 22 — Availability-test and healthy-target evidence
 
-Add your screenshot here.
+![screenshot 22](screenshots/task6-screenshot-22.PNG)
 
 ---
 
