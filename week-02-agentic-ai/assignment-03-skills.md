@@ -96,8 +96,7 @@ Paste your forked repository URL here:
 
 Paste your forked repository URL here:
 
-`https://www.linkedin.com/posts/zahra-u-nura_dmibypravinmishra-agenticai-claudecode-share-7480940741616242688-o-GT/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U`
-
+`Add your URL here`
 ---
 
 # Completion Checklist

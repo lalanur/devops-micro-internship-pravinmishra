@@ -1,6 +1,6 @@
 # Week 01 — Success Mindset (Mindset OS)
 
-Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
+Part of the DevOps Micro Internship (DMI) with Agentic AI
 
 ---
 
@@ -90,49 +90,48 @@ Instead of trying to figure everything out on my own, I learned to reach out to 
 
 ---
 
-# Assignment 3. What does your 2.0 version look like?
+## Task 3 — What Does Your 2.0 Version Look Like?
 
-### Instructions
+Write and publicly publish an article about your future professional self, written as if a journalist is writing about you **3–7 years from now**.
 
-Write as if a journalist is writing about you **3 to 7 years from now** (not 20 years).
+Your article must:
 
-**Minimum 300 words.**
+* Be at least **300 words**.
+* Be written in the **past tense**, as if it has already happened.
+* Include specific proof such as projects, portfolio, GitHub, blogs, certifications, job role, leadership, or community contribution.
+* Be published on LinkedIn, Medium, WordPress, Blogspot, a personal blog, or a portfolio page.
 
-### Rules
+### My Article
 
-* Write in past tense, like it already happened.
-* Don't use "likes to / wants to / hopes to."
-* Use specifics:
+Paste your complete article here...
 
-  * built
-  * shipped
-  * led
-  * published
-  * earned
-  * relocated
-  * contributed
-* Include skills proof:
+### Public Article URL
 
-  * projects
-  * portfolios
-  * GitHub
-  * blogs
-  * certifications
-  * job role
-  * leadership
-  * community contribution
-* Add 1–3 images if you can (optional but powerful).
+```text
+Paste your published article URL here...
+```
 
-### Publish It Publicly On Any ONE
+### LinkedIn Post URL
 
-* LinkedIn
-* Medium
-* WordPress
-* Blogspot
-* Personal blog
-* Portfolio page
+Create a LinkedIn post sharing your published article, then add the URL below.
 
-Include this line:
+```text
+Paste your LinkedIn post URL here...
+```
+
+### Credit Note — DMI Self-Paced Engineer Track Students
+
+Add this credit note at the end of your public article. Replace `YOUR-GITHUB-USERNAME` with your actual GitHub username.
+
+> **P.S. This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer Track — by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My graded progress is public:** https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html **· Start your DevOps journey:** https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=self-paced
+
+`#DMIByPravinMishra`
+
+Tag [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) in your LinkedIn post.
+
+### Credit Note — DMI Campus Students
+
+Add this credit note at the end of your public article. Replace `YOUR-GITHUB-USERNAME` with your actual GitHub username.
 
 > **P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=cohort3**
 
@@ -377,17 +376,17 @@ Examples:
 
 ---
 
-# Reflection – Week 1
+## Task 8 — Week 1 Reflection and Proof of Work
 
-### Biggest insight I got about myself this week
+### Biggest Insight I Got About Myself This Week
 
 I realized that I am more disciplined than I give myself credit for. Looking back at my journey, I have always found a way to keep going, even after setbacks. Whether it was failing a certification exam, preparing for interviews, or learning new technologies, I never stopped. I just needed to remind myself that progress is built over time, not overnight. I also realized that consistency has played a bigger role in my growth than talent alone.
 
-### My biggest weakness/loop I noticed
+### My Biggest Weakness or Loop I Noticed
 
 One thing I noticed is that I sometimes overthink and wait for the "perfect" opportunity instead of making the most of the opportunity in front of me. I also spend too much time trying to figure things out on my own before asking for help. While being independent is a good thing, I have learned that asking the right person at the right time can save hours, or even days, of frustration.
 
-### One system I will implement from this week (exact habit + time)
+### One System I Will Implement From This Week (Exact Habit and Time)
 
 From Monday to Thursday, I will dedicate a cumulative 5–8 hours each week to deep work for learning. During that time, I will focus on my task for the week, whether it is studying, building projects, or completing my internship assignments. My phone will be on **Do Not Disturb**, and I will stay away from social media until my session is complete.
 
@@ -425,4 +424,4 @@ It helps learners build strong DevOps foundations with hands-on experience.
 
 ---
 
-*This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track*
+*This submission is part of DevOps Micro Internship (DMI) — Agentic AI Track*
