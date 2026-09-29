@@ -96,7 +96,8 @@ Paste your forked repository URL here:
 
 Paste your forked repository URL here:
 
-`Add your URL here`
+`https://github.com/lalanur/devops-micro-internship-pravinmishra.git`
+
 ---
 
 # Completion Checklist
