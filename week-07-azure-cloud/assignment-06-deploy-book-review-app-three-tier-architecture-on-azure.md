@@ -212,7 +212,7 @@ Confirm the Book Review App works end to end through the public endpoint, with a
 
 Paste your public endpoint URL here:
 
-`Add your URL here`
+`http://30.164.108.125/`
 
 ---
 
@@ -220,7 +220,23 @@ Paste your public endpoint URL here:
 
 Summarize what worked, issues encountered and how they were fixed, and the availability/security/secrets/monitoring/backup choices made.
 
-Write your answer here.
+What Worked
+
+I successfully deployed the Book Review application using a three-tier Azure architecture. The Application Gateway is the only public entry point, while the web, application, and database tiers remain private. I also configured load balancing with multiple instances and tested failover by stopping one web instance. The application continued serving traffic through the healthy instance.
+
+Issues Encountered and Fixes
+Managed Identity: Subscription policy blocked the system-assigned identity, so I used a User-Assigned Managed Identity instead.
+Private subnet connectivity: Package installation failed because the private subnets had no outbound access. I resolved this by adding a NAT Gateway.
+Database connection: An environment variable containing # caused the password to be interpreted incorrectly. Quoting the value fixed the authentication issue.
+Frontend API access: The frontend could not reach the private backend Load Balancer from a browser. I fixed this by routing API requests through the public Nginx endpoint.
+CORS: Browser requests were blocked because the application expected an explicit allowed origin. I configured the Application Gateway public endpoint as the allowed origin.
+Azure CLI on Windows: Some commands were affected by Git Bash path conversion. Using MSYS_NO_PATHCONV=1 resolved the issue.
+Availability, Security, Secrets, Monitoring & Backup
+Availability: Web and application tiers use multiple instances behind health-checked load balancers, and I verified failover during testing.
+Security: NSGs restrict communication between tiers, and the web, app, and database servers have no public IPs.
+Secrets: Database credentials are stored securely in Azure Key Vault instead of being hardcoded in the application.
+Monitoring: Azure Monitor/Log Analytics is used to collect application and infrastructure logs and monitor unhealthy backends.
+Backup: MySQL automated backups are enabled with a defined retention period to support recovery when needed.
 
 ---
 

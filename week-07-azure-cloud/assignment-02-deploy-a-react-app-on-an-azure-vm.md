@@ -130,7 +130,7 @@ Restrict the SSH Network Security Group rule to your IP if not already restricte
 
 #### Screenshot 10 (optional) — Network Security Group rule showing SSH restricted to your IP
 
-Add your screenshot here.
+![screenshot 10](screenshots/task2-screenshot-10.PNG)
 
 ---
 
