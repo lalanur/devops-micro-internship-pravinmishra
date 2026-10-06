@@ -24,7 +24,7 @@ Prepare your local environment by installing Terraform, AWS CLI, and the HashiCo
 
 Add a screenshot of the terminal showing successful `terraform version` output.
 
-Add your screenshot here.
+![screenshot 01](screenshots/task4-screenshot-01.PNG)
 
 ---
 
@@ -32,7 +32,7 @@ Add your screenshot here.
 
 Add a screenshot of the terminal showing successful `aws --version` output.
 
-Add your screenshot here.
+![screenshot 02](screenshots/task4-screenshot-02.PNG)
 
 ---
 
@@ -40,7 +40,7 @@ Add your screenshot here.
 
 Add a screenshot of VS Code showing the HashiCorp Terraform extension installed and enabled.
 
-Add your screenshot here.
+![screenshot 03](screenshots/task4-screenshot-03.PNG)
 
 ---
 
@@ -80,7 +80,7 @@ terraform-aws-epicbook/
 
 Add a screenshot of the VS Code Explorer showing the complete root project and the `network`, `ec2`, and `rds` module directory structure.
 
-Add your screenshot here.
+![screenshot 0](screens4hots/task4-screenshot-04.PNG)
 
 ---
 
@@ -109,7 +109,7 @@ The network module must include:
 
 Add a screenshot of VS Code showing the VPC, public subnet, and two private database subnet configurations.
 
-Add your screenshot here.
+![screenshot 05](screenshots/task4-screenshot-05.PNG)
 
 ---
 
@@ -117,7 +117,7 @@ Add your screenshot here.
 
 Add a screenshot of VS Code showing the Internet Gateway, public route table, and route table association.
 
-Add your screenshot here.
+![screenshot 06](screenshots/task4-screenshot-06.PNG)
 
 ---
 
@@ -125,7 +125,9 @@ Add your screenshot here.
 
 Add a screenshot of VS Code showing the EC2 and RDS Security Groups, including MySQL access from the EC2 Security Group only.
 
-Add your screenshot here.
+![screenshot 07](screenshots/task4-screenshot-07.PNG)
+
+![screenshot 07](screenshots/task4-screenshot-07ii.PNG)
 
 ---
 
@@ -133,7 +135,7 @@ Add your screenshot here.
 
 Add a screenshot of VS Code showing the network module outputs.
 
-Add your screenshot here.
+![screenshot 08](screenshots/task4-screenshot-08.PNG)
 
 ---
 
@@ -161,7 +163,7 @@ The `user_data.sh` script must install the required software without storing dat
 
 Add a screenshot of VS Code showing the EC2 resource and `user_data` configuration.
 
-Add your screenshot here.
+![screenshot 09](screenshots/task4-screenshot-09.PNG)
 
 ---
 
@@ -171,7 +173,7 @@ Add a screenshot of VS Code showing `user_data.sh`.
 
 Ensure that no credentials, passwords, private keys, access tokens, or application secrets are visible.
 
-Add your screenshot here.
+![screenshot 10](screenshots/task4-screenshot-10.PNG)
 
 ---
 
@@ -179,7 +181,9 @@ Add your screenshot here.
 
 Add a screenshot of VS Code showing the EC2 module variables and outputs.
 
-Add your screenshot here.
+![screenshot 11](screenshots/task4-screenshot-11.PNG)
+
+![screenshot 11](screenshots/task4-screenshot-11ii.PNG)
 
 ---
 
@@ -205,7 +209,7 @@ The RDS module must include:
 
 Add a screenshot of VS Code showing the DB subnet group and RDS MySQL configuration.
 
-Add your screenshot here.
+![screenshot 12](screenshots/task4-screenshot-12.PNG)
 
 ---
 
@@ -215,7 +219,9 @@ Add a screenshot of VS Code showing `publicly_accessible = false`, the RDS Secur
 
 Ensure that the database password and other sensitive values are hidden.
 
-Add your screenshot here.
+![screenshot 13](screenshots/task4-screenshot-13.PNG)
+
+![screenshot 13](screenshots/task4-screenshot-13ii.PNG)
 
 ---
 
@@ -223,7 +229,7 @@ Add your screenshot here.
 
 Add a screenshot of VS Code showing the RDS endpoint output.
 
-Add your screenshot here.
+![screenshot 14](screenshots/task4-screenshot-14.PNG)
 
 ---
 
@@ -239,7 +245,7 @@ Use the root Terraform configuration to call the Network, EC2, and RDS modules a
 
 Add a screenshot of VS Code showing the root `main.tf` with the Network, EC2, and RDS module blocks.
 
-Add your screenshot here.
+![screenshot 15](screenshots/task4-screenshot-15.PNG)
 
 ---
 
@@ -247,7 +253,7 @@ Add your screenshot here.
 
 Add a screenshot of VS Code showing values passed from the Network module to the EC2 and RDS modules.
 
-Add your screenshot here.
+![screenshot 16](screenshots/task4-screenshot-16.PNG)
 
 ---
 
@@ -255,7 +261,7 @@ Add your screenshot here.
 
 Add a screenshot of VS Code showing the root EC2 public IP and RDS endpoint outputs.
 
-Add your screenshot here.
+![screenshot 17](screenshots/task4-screenshot-17.PNG)
 
 ---
 
