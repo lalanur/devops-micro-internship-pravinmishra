@@ -277,7 +277,7 @@ Initialize the modular Terraform project, validate the configuration, review the
 
 Add a screenshot of the terminal showing successful `terraform init` output.
 
-Add your screenshot here.
+![screenshot 18](screenshots/task4-screenshot-18.PNG)
 
 ---
 
@@ -285,7 +285,7 @@ Add your screenshot here.
 
 Add a screenshot of the terminal showing successful `terraform validate` output.
 
-Add your screenshot here.
+![screenshot 19](screenshots/task4-screenshot-19.PNG)
 
 ---
 
@@ -293,7 +293,7 @@ Add your screenshot here.
 
 Add a screenshot showing the Terraform plan summary and proposed resources.
 
-Add your screenshot here.
+![screenshot 20](screenshots/task4-screenshot-20.PNG)
 
 ---
 
@@ -301,7 +301,7 @@ Add your screenshot here.
 
 Add a screenshot showing successful `terraform apply` completion.
 
-Add your screenshot here.
+![screenshot 21](screenshots/task4-screenshot-21.PNG)
 
 ---
 
@@ -309,7 +309,7 @@ Add your screenshot here.
 
 Add a screenshot showing the EC2 public IP and RDS endpoint returned by `terraform output`.
 
-Add your screenshot here.
+![screenshot 22](screenshots/task4-screenshot-22.PNG)
 
 ---
 
@@ -325,7 +325,7 @@ Verify that the EC2 and RDS resources were successfully provisioned and confirm 
 
 Add a screenshot of AWS CLI showing the EC2 instance running.
 
-Add your screenshot here.
+![screenshot 23](screenshots/task4-screenshot-23.PNG)
 
 ---
 
@@ -333,7 +333,7 @@ Add your screenshot here.
 
 Add a screenshot of AWS CLI showing that RDS is available and not publicly accessible.
 
-Add your screenshot here.
+![screenshot 24](screenshots/task4-screenshot-24.PNG)
 
 ---
 
@@ -341,7 +341,7 @@ Add your screenshot here.
 
 Add a screenshot of the EC2 terminal showing the required software version checks and the active Nginx service.
 
-Add your screenshot here.
+![screenshot 25](screenshots/task4-screenshot-25.PNG)
 
 ---
 
@@ -359,7 +359,7 @@ Add a screenshot of the terminal showing a successful connection from EC2 to Ama
 
 Ensure that the database password is not visible.
 
-Add your screenshot here.
+![screenshot 26](screenshots/task4-screenshot-26.PNG)
 
 ---
 
@@ -367,7 +367,7 @@ Add your screenshot here.
 
 Add a screenshot of the terminal showing the EpicBook tables and imported data.
 
-Add your screenshot here.
+![screenshot 27](screenshots/task4-screenshot-27.PNG)
 
 ---
 
@@ -383,7 +383,7 @@ Install EpicBook dependencies, configure the application to use Amazon RDS, conf
 
 Add a screenshot of the terminal showing successful dependency installation and the `node_modules` directory.
 
-Add your screenshot here.
+![screenshot 28](screenshots/task4-screenshot-28.PNG)
 
 ---
 
@@ -391,7 +391,7 @@ Add your screenshot here.
 
 Add a screenshot of the terminal showing a successful Nginx configuration test and active service status.
 
-Add your screenshot here.
+![screenshot 29](screenshots/task4-screenshot-29.PNG)
 
 ---
 
@@ -399,7 +399,7 @@ Add your screenshot here.
 
 Add a screenshot of the terminal showing EpicBook running or listening on port `8080`.
 
-Add your screenshot here.
+![screenshot 30](screenshots/task4-screenshot-30.PNG)
 
 ---
 
@@ -411,7 +411,7 @@ Verify that EpicBook, EC2, Nginx, and Amazon RDS work together successfully.
 
 ## EC2 Public IP URL
 
-**EC2 Public IP URL:** Add the working EpicBook EC2 public IP URL here
+**EC2 Public IP URL:** [http://184.193.32.50/](http://184.193.32.50/)
 
 ## Evidence
 
@@ -419,7 +419,7 @@ Verify that EpicBook, EC2, Nginx, and Amazon RDS work together successfully.
 
 Add a screenshot of the browser showing EpicBook using the EC2 public IP.
 
-Add your screenshot here.
+![screenshot 31](screenshots/task4-screenshot-31.PNG)
 
 ---
 
@@ -427,7 +427,7 @@ Add your screenshot here.
 
 Add a screenshot of the browser showing a successful cart or checkout action.
 
-Add your screenshot here.
+![screenshot 32](screenshots/task4-screenshot-32.PNG)
 
 ---
 
@@ -437,7 +437,7 @@ Add a screenshot of the terminal showing the corresponding RDS database record c
 
 Ensure that database credentials and other sensitive values are not visible.
 
-Add your screenshot here.
+![screenshot 33](screenshots/task4-screenshot-33.PNG)
 
 ---
 
@@ -453,7 +453,7 @@ Remove all AWS resources created by the modular Terraform configuration.
 
 Add a screenshot of the terminal showing successful `terraform destroy` completion.
 
-Add your screenshot here.
+![screenshot 34](screenshots/task4-screenshot-34.PNG)
 
 ---
 
@@ -471,12 +471,11 @@ Write the post in your own words and include at least one deployment screenshot 
 
 Add a screenshot of the published LinkedIn post showing the post and at least one deployment image or other proof.
 
-Add your screenshot here.
+![screenshot 35](screenshots/task4-screenshot-35.PNG)
 
 ## LinkedIn Post URL
 
-**LinkedIn Post URL:** Add your LinkedIn post URL here
-
+**LinkedIn Post URL:** [https://www.linkedin.com/posts/zahra-u-nura_aws-terraform-devops-ugcPost-7515753301456527362-a5s-/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U]
 ---
 
 # Submission Instructions
