@@ -94,8 +94,8 @@ Week 07 → Azure Cloud
 Week 08 → Terraform
 [![Week 08 – Terraform](./badges/week-08.svg)](./week-08-terraform/)
 
-<!-- Week 09 → Ansible -->
-<!-- [![Week 09 – Ansible](./badges/week-09.svg)](./week-09-ansible/) -->
+Week 09 → Ansible
+[![Week 09 – Ansible](./badges/week-09.svg)](./week-09-ansible/)
 
 <!-- Week 10 → Azure DevOps CI/CD -->
 <!-- [![Week 10 – CI/CD](./badges/week-10.svg)](./week-10-azure-devops/) -->
@@ -139,7 +139,7 @@ Week 08 → Terraform
 | 06 | AWS Cloud | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/zahra-u-nura_aws-cloudengineering-devops-activity-7498488762260373504-5yZ9?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U; https://www.linkedin.com/posts/zahra-u-nura_aws-devops-cloudengineering-activity-7498490230392475650-S30F?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U; https://www.linkedin.com/posts/zahra-u-nura_dmibypravinmishra-aws-agenticai-activity-7498491876195336192-uzrL?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U | https://medium.com/@lalanura5/when-the-pieces-finally-connected-my-aws-three-tier-capstone-430593056bed |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | https://www.linkedin.com/posts/zahra-u-nura_dmibypravinmishra-azure-terraform-share-7515751103695597569-cN0P/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U | — |
 | 08 | Terraform | ⬜ Not Started | ⏳ Pending | https://www.linkedin.com/posts/zahra-u-nura_aws-terraform-devops-ugcPost-7515753301456527362-a5s-/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U; https://www.linkedin.com/posts/zahra-u-nura_devops-terraform-aws-ugcPost-7515755386889580545-FvVs/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U; https://www.linkedin.com/posts/zahra-u-nura_dmibypravinmishra-terraform-agenticai-ugcPost-7515756500603297792-bEpN/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U | — |
-| 09 | Ansible | ⬜ Not Started | ⏳ Pending | — | — |
+| 09 | Ansible | ⬜ Not Started | ⏳ Pending | https://www.linkedin.com/posts/zahra-u-nura_aws-agenticai-claudecode-ugcPost-7518022638317846528-tfvV/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U; https://www.linkedin.com/posts/zahra-u-nura_dmibypravinmishra-azure-ansible-ugcPost-7518024654456770561-nHad/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U; https://www.linkedin.com/posts/zahra-u-nura_dmibypravinmishra-devops-terraform-share-7518027408244060160-l6LP/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U; https://www.linkedin.com/posts/zahra-u-nura_dmibypravinmishra-devops-terraform-ugcPost-7518028980810170370-l7Uz/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U; https://www.linkedin.com/posts/zahra-u-nura_dmibypravinmishra-devops-ansible-share-7518030342944030720-0kkR/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U | — |
 | 10 | Azure DevOps (CI/CD) | ⬜ Not Started | ⏳ Pending | — | — |
 | 11 | Docker | ⬜ Not Started | ⏳ Pending | — | — |
 | 12 | Kubernetes | ⬜ Not Started | ⏳ Pending | — | — |

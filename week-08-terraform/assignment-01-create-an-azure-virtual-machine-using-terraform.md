@@ -144,7 +144,7 @@ Share your Terraform deployment progress on WhatsApp by using Screenshot 8, the 
 
 #### Screenshot 12 — Published WhatsApp Status showing your Terraform deployment progress and DMI Leaderboard progress link
 
-Add your screenshot here.
+![screenshot 12](screenshots/task1-screenshot-12.PNG)
 
 > Ensure that no passwords, account IDs, subscription IDs, private phone numbers, or personal messages are visible.
 
