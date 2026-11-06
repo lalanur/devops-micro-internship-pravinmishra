@@ -36,7 +36,7 @@ Add a screenshot of Azure Repos showing:
 * Project files
 * `index.html`
 
-Add your screenshot here.
+![screenshot-1](screenshots/zahrau-nura-as2-scr1.png)
 
 ---
 
@@ -65,7 +65,7 @@ Add a screenshot of the saved SSH Service Connection **Overview** page showing:
 * Service Connection name
 * SSH connection type
 
-Add your screenshot here.
+![screenshot-2](screenshots/zahrau-nura-as2-scr2.png)
 
 > Do not expose a password, SSH private key, passphrase, or another credential.
 
@@ -91,7 +91,7 @@ Add a screenshot of `azure-pipelines.yml` open in the Azure Repos editor showing
 * `CopyFilesOverSSH@0` task
 * `SSH@0` verification task
 
-Add your screenshot here.
+![screenshot-3](screenshots/zahrau-nura-as2-scr3.png)
 
 > Ensure that no password, SSH private key, PAT, or AWS credential is visible.
 
@@ -115,7 +115,7 @@ Add a screenshot of the successful pipeline run and log summary showing:
 * Remote-verification step completed
 * Your Full Name visible in the pipeline output
 
-Add your screenshot here.
+![screenshot-4](screenshots/zahrau-nura-as2-scr4.png)
 
 ---
 
@@ -129,22 +129,22 @@ Confirm that the website is accessible through the EC2 public IP address and tha
 
 ### Screenshot 5 — Deployed Azure Static Website
 
-Add a browser screenshot showing:
+Add a screenshot of Azure Repos showing:
 
 * Deployed Azure Static Website
 * EC2 public IP address in the browser address bar
 * Your Full Name
 * Updated website content after the automatic deployment
 
-Add your screenshot here.
+![screenshot-5](screenshots/zahrau-nura-as2-scr5.png)
 
 ## Final Website URL
 
-`http://<target-vm-public-ip>`
+`http://3.235.145.82`
 
 Replace the placeholder with your actual website URL:
 
-[Paste your final website URL here]
+[http://3.235.145.82]
 
 ---
 
@@ -152,7 +152,11 @@ Replace the placeholder with your actual website URL:
 
 Write a short summary of the completed CI/CD workflow.
 
-[Write your summary here.]
+I automated deployment of the Azure Static Website to an AWS EC2 instance using an Azure DevOps CI/CD pipeline.
+
+I imported `https://github.com/pravinmishraaws/Azure-Static-Website.git` into Azure Repos project `Azure-Static-Website-CICD` and added my full name (**Zahra'u Nura**) to `index.html`. Terraform provisioned an Ubuntu EC2 instance in `us-east-1` with SSH limited to my workstation and the Assignment 38 self-hosted agent IP, and HTTP open on port 80. Ansible installed Nginx, prepared `/var/www/html`, and made the `ubuntu` user able to write deployment files.
+
+I created an SSH service connection (`azure-static-website-ssh`) using private-key authentication, then added `azure-pipelines.yml` that triggers on every branch, runs on `SelfHostedPool`, prints pipeline information with my name, and verified the deploy. The pipeline succeeded, and a later commit automatically triggered another successful CI run that updated the live site.
 
 ---
 
@@ -167,11 +171,11 @@ Add a screenshot of your LinkedIn post containing:
 * Three to five lines describing the CI/CD workflow
 * A screenshot of the successful pipeline or deployed website
 
-Add your screenshot here.
+![screenshot 01](screenshots/task2-screenshot-01.PNG)
 
 ## LinkedIn Post URL
 
-[Paste your public LinkedIn post URL here]
+[https://www.linkedin.com/posts/zahra-u-nura_dmibypravinmishra-devops-azuredevops-ugcPost-7524481164267384832-CGeb/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U]
 
 > Do not expose AWS credentials, SSH private keys, passwords, PATs, or other sensitive information.
 

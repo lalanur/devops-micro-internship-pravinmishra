@@ -37,7 +37,7 @@ Add a screenshot of Azure Repos showing:
 * `main` branch
 * Project files
 
-Add your screenshot here.
+![screenshot 01](screenshots/task3-screenshot-01.PNG).
 
 ---
 
@@ -81,7 +81,11 @@ Add a screenshot of the Azure Pipeline YAML open in the editor showing:
 * Publish stage
 * Deploy stage
 
-Add your screenshot here.
+![screenshot 02](screenshots/task3-screenshot-02.PNG)
+
+![screenshot 02](screenshots/task3-screenshot-02ii.PNG)
+
+![screenshot 02](screenshots/task3-screenshot-02iii.PNG)
 
 > Do not expose passwords, private keys, tokens, or cloud credentials.
 
@@ -104,7 +108,7 @@ Add a screenshot of one Azure DevOps pipeline run showing all four stages succee
 * Publish
 * Deploy
 
-Add your screenshot here.
+![screenshot 03](screenshots/task3-screenshot-03.PNG)
 
 ---
 
@@ -122,7 +126,7 @@ Add a screenshot of the pipeline SSH verification log or VM terminal showing the
 
 `/var/www/html`
 
-Add your screenshot here.
+![screenshot 04](screenshots/task3-screenshot-04.PNG)
 
 ---
 
@@ -143,15 +147,15 @@ Add a browser screenshot showing:
 * Your Full Name
 * Deployment date
 
-Add your screenshot here.
+![screenshot 05](screenshots/task3-screenshot-05.PNG)
 
 ## Final Application URL
 
-`http://<vm-public-ip>`
+`http://3.235.141.248/`
 
 Replace the placeholder and paste your final application URL below:
 
-[Paste your final application URL here.]
+[[http://3.235.141.248/]]
 
 ---
 
@@ -159,7 +163,11 @@ Replace the placeholder and paste your final application URL below:
 
 Write a short explanation of the CI/CD workflow you created.
 
-[Write your summary here.]
+[I built a four-stage Azure DevOps pipeline that automatically builds, tests, and deploys a React application to an Ubuntu EC2 server whenever a change is pushed to the `main` branch.
+
+The pipeline runs on my self-hosted Linux agent in `SelfHostedPool`. In the **Build** stage, it installs Node.js 20.x and compiles the React source into production static files, then publishes that output as a pipeline artifact. The **Test** stage installs dependencies again on a fresh job and runs unit tests in non-interactive CI mode. The **Publish** stage downloads the build artifact, verifies required production files, and republishes an approved deployment package. The **Deploy** stage downloads that package, copies it over SSH into Nginx’s `/var/www/html` web root, and runs a remote verification script.
+
+Each stage depends on the previous one succeeding, so a failed build or test cannot reach the live server. The target VM was provisioned with Terraform and configured with Ansible (Nginx, SPA `try_files`, password SSH for the lab service connection). Credentials stay in the Azure DevOps SSH service connection and never appear in YAML or the repository.]
 
 ---
 
@@ -174,11 +182,11 @@ Add a screenshot of your LinkedIn post showing:
 * Post text
 * At least one image or link
 
-Add your screenshot here.
+![screenshot 06](screenshots/task3-screenshot-06.PNG)
 
 ## LinkedIn Post URL
 
-[Paste your public LinkedIn post URL here.]
+[https://www.linkedin.com/posts/zahra-u-nura_dmibypravinmishra-devops-azuredevops-share-7524482745629175808-F5Im/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U]
 
 > Do not expose VM passwords, tokens, private keys, cloud credentials, or other sensitive information.
 

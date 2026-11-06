@@ -58,7 +58,7 @@ Add a screenshot from AWS or Azure showing:
 * VM status as **Running**
 * Public IP address
 
-Add your screenshot here.
+![screenshot 01](screenshots/task1-screenshot-01.PNG)
 
 ---
 
@@ -72,7 +72,7 @@ Add an SSH terminal screenshot showing the output of:
 
 The screenshot must confirm a supported Ubuntu version, `x86_64` architecture, and a successful HTTP response from Azure DevOps.
 
-Add your screenshot here.
+![screenshot 02](screenshots/task1-screenshot-02.PNG)
 
 ---
 
@@ -93,7 +93,7 @@ Add a terminal screenshot showing:
 * Agent service start
 * `sudo ./svc.sh status` reporting that the service is running
 
-Add your screenshot here.
+![screenshot 03](screenshots/task1-screenshot-03.PNG)
 
 > Ensure that the PAT is not visible.
 
@@ -116,7 +116,7 @@ Add a screenshot of the Azure DevOps Agent Pool **Agents** page showing:
 * Agent status as **Online**
 * Agent enabled and available
 
-Add your screenshot here.
+![screenshot 04](screenshots/task1-screenshot-04.PNG)
 
 ---
 
@@ -138,7 +138,7 @@ Add a screenshot of `azure-pipelines.yml` open in the Azure Repos editor showing
 * Your Full Name
 * Linux verification commands
 
-Add your screenshot here.
+![screenshot 05](screenshots/task1-screenshot-05.PNG)
 
 ---
 
@@ -156,7 +156,9 @@ Add a screenshot of the successful Azure DevOps pipeline run showing:
 * Output from `df -h`
 * Output from `pwd`
 
-Add your screenshot here.
+![screenshot 06](screenshots/task1-screenshot-06.PNG)
+
+![screenshot 06](screenshots/task1-screenshot-06ii.PNG)
 
 ---
 
@@ -165,7 +167,25 @@ Add your screenshot here.
 Paste the contents of your completed `azure-pipelines.yml` file below.
 
 ```yaml
-# Paste your completed azure-pipelines.yml here
+trigger: none
+ 
+pool:
+  name: SelfHostedPool
+ 
+steps:
+  - bash: |
+      echo "Submitted by: Zahra'u Nura"
+      echo "Agent name: $(Agent.Name)"
+      echo "Machine name: $(Agent.MachineName)"
+      echo "Operating system details:"
+      uname -a
+      echo "User executing the pipeline:"
+      whoami
+      echo "Disk usage:"
+      df -h
+      echo "Current working directory:"
+      pwd
+    displayName: Verify self-hosted Ubuntu agent
 ```
 
 > Do not include your PAT, SSH private key, password, or cloud credentials in the YAML file.
@@ -176,7 +196,15 @@ Paste the contents of your completed `azure-pipelines.yml` file below.
 
 Write a short summary of what you configured.
 
-[Write your summary here.]
+In this assignment, I configured a self-hosted Azure DevOps agent on an Ubuntu virtual machine and used it to run a test pipeline.
+
+I created an Azure DevOps organization lalanura5 and a project, then generated a Personal Access Token with only the Agent Pools (Read & manage) and Build (Read & execute) scopes. I created a self-hosted agent pool named SelfHostedPool.
+
+I launched an Ubuntu server on Azure, named ubuntu-devops-vm. Its security group allows inbound SSH (port 22) only from my own IP address, and outbound HTTPS (port 443) is allowed so the VM can reach Azure DevOps. I connected over SSH and verified the Ubuntu version, the x86_64 architecture, and connectivity to Azure DevOps.
+
+On the VM, I downloaded and extracted the Azure Pipelines agent, registered it in SelfHostedPool with ./config.sh using the PAT, and installed it as a systemd service with svc.sh so it keeps running in the background. The agent shows as Online in the pool.
+
+Finally, I created an azure-pipelines.yml file that targets SelfHostedPool and runs a Bash step printing my full name, the agent name, the machine name, and the output of uname -a, whoami, df -h, and pwd. The pipeline run succeeded, and the log shows the commands executed on my self-hosted VM.
 
 ---
 
@@ -191,9 +219,9 @@ Add a screenshot of your LinkedIn post showing:
 * Three to five lines explaining your experience
 * A screenshot of the successful pipeline run with no secrets visible
 
-Add your screenshot here.
+![screenshot 07](screenshots/task1-screenshot-07.PNG)
 
-**LinkedIn Post URL:** [Paste your LinkedIn post URL here]
+**LinkedIn Post URL:** [https://www.linkedin.com/posts/zahra-u-nura_dmibypravinmishra-devops-azuredevops-ugcPost-7524478325214523392-lulE/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U]
 
 ---
 

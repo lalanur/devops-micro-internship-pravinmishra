@@ -70,7 +70,7 @@ Add a screenshot of the Infrastructure Pipeline run showing:
 * `backend_private_ip`
 * `mysql_fqdn`
 
-Add your screenshot here.
+![screenshot 01](screenshots/task4-screenshot-01.PNG)
 
 > Do not expose the MySQL password, Client Secret, Terraform state, SSH private key, or another sensitive value.
 
@@ -86,7 +86,7 @@ Add a screenshot of the Azure Portal Resource Group overview showing:
 * Azure Database for MySQL Flexible Server
 * Related EpicBook resources
 
-Add your screenshot here.
+![screenshot 02](screenshots/task4-screenshot-02.PNG)
 
 > Hide sensitive IDs, credentials, and database details.
 
@@ -124,7 +124,7 @@ Run the Application Pipeline to configure the VMs, deploy EpicBook, and verify t
 
 Add a screenshot of the Application Pipeline run summary showing all required stages or jobs succeeded.
 
-Add your screenshot here.
+![screenshot 03](screenshots/task4-screenshot-03.PNG)
 
 ---
 
@@ -137,7 +137,7 @@ Add a screenshot of the Application Pipeline log showing:
 * Zero failed hosts
 * Zero unreachable hosts
 
-Add your screenshot here.
+![screenshot 04](screenshots/task4-screenshot-04.PNG)
 
 > Do not expose the SSH private key, MySQL password, Client Secret, or complete database connection string.
 
@@ -162,7 +162,9 @@ Add a browser screenshot showing:
 
 The screenshot may show a product, cart, or successful order view.
 
-Add your screenshot here.
+![screenshot 05](screenshots/task4-screenshot-05.PNG)
+
+![screenshot 05](screenshots/task4-screenshot-05ii.PNG)
 
 > Do not expose credentials or sensitive information.
 
@@ -172,15 +174,15 @@ Add your screenshot here.
 
 ## Frontend Application URL
 
-[Paste your final EpicBook application URL here.]
+[[http://4.154.73.19/]]
 
 ## Infrastructure Repository URL
 
-[Paste your Infrastructure Repository URL here.]
+[[https://dev.azure.com/lalanura5/epicbook-cicd/_git/infra-epicbook]]
 
 ## Application Repository URL
 
-[Paste your Application Repository URL here.]
+[[https://dev.azure.com/lalanura5/epicbook-cicd/_git/theepicbook]]
 
 ---
 
@@ -188,7 +190,7 @@ Add your screenshot here.
 
 Write a short explanation of why separate Infrastructure and Application Repositories were used.
 
-[Write your explanation here.]
+[Infrastructure changes live in `infra-epicbook` (Terraform + infra pipeline). Application configuration and EpicBook code live in `theepicbook` (Ansible + app pipeline). Separating the repos keeps infrastructure review stricter, limits which pipelines can touch Azure, and keeps application deploy history clear of Terraform state and cloud auth concerns.]
 
 ---
 
@@ -201,7 +203,7 @@ Write a short explanation of how the following non-sensitive Terraform outputs w
 * `backend_private_ip`
 * `mysql_fqdn`
 
-[Write your explanation here.]
+[After a successful infra apply, non-sensitive outputs (`app_public_ip`, `backend_ansible_host`, `backend_private_ip`, `mysql_fqdn`) are copied into the app repo inventory and `group_vars`. The MySQL password stays only in the secured Azure DevOps variable group. A commit to `theepicbook` main then runs the Ansible pipeline.]
 
 ---
 
@@ -216,11 +218,11 @@ Add a screenshot of your LinkedIn post showing:
 * Post text
 * At least one image or link
 
-Add your screenshot here.
+![screenshot 06](screenshots/task4-screenshot-06.PNG)
 
 ## LinkedIn Post URL
 
-[Paste your public LinkedIn post URL here.]
+[https://www.linkedin.com/posts/zahra-u-nura_dmibypravinmishra-devops-microsoftazure-ugcPost-7524483876090728448-lTVA/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhheJ4Bw5LI3hMBUfCD5MZiGRXdKYKjr0U]
 
 Your post must include:
 
